@@ -1,0 +1,26 @@
+a database management system is the collection of interelated data and a set of program to access those data 
+  primary goal of dbms - to provide and retrieve database information that is convient and efficient to use
+  1) larger bodies of information 
+  2) define , manipluate and managing the safelty
+
+  why do we need the dbms ?
+  before the dbms we typically use the file system is supported by a conventional operating system 
+  disadvantage of using the file system 
+  1) data redundancy and inconsistency -  means same data will get written again and again and delete any input will create an inconsistency in data
+  2) difficulty in accessing the data
+  3) data isolation 
+  4) integrity problem  - the data values stored in the database must satisfy certain types of consistency constraints
+  4) atomicity problem - like one complete action should be performed means a complete transaction should be record as complete
+  5) concurrent access anomalies - means multiple users using the same application at once'
+  6) security problem - if we need the certain part of the data to be access than it will lead to security problem 
+
+  so in most of the file system it is most difficult to write right the problem 
+
+
+  VIEW OF DATA 
+    database system is a collection of int
+  
+  
+  
+      
+
